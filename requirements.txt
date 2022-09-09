@@ -1,0 +1,5 @@
+mysql_connector
+pyserial
+minimalmodbus
+pyvantagepro
+pymodbus
